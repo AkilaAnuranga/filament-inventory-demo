@@ -24,9 +24,9 @@ class DatabaseSeeder extends Seeder
             'email' => 'admin@gmail.com',
             'password' => Hash::make('12345678'),
             'company_name' => 'ABC',
-            'company_email' => 'company@gmail.com',
-            'phone' => '0771234567',
-            'address' => 'High-level Road, Colombo 05',
+            'company_email' => 'user@gmail.com',
+            'phone' => '0881234567',
+            'address' => 'Willis Rosebowl, 5 Dickinson Lower, South Australia',
         ]);
 
         DB::table('categories')->insert([
