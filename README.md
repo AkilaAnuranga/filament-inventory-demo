@@ -28,6 +28,7 @@ UserName: admin@gmail.com
 Password: 12345678
 ````
 
+<p>For more details <a href="https://filamentphp.com/" target="_blank">Filamentphp</a></p>
 
 <h3>Screenshots</h3>
 
