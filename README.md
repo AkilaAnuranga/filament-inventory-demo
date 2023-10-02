@@ -31,8 +31,8 @@ Password: 12345678
 
 <h3>Screenshots</h3>
 
-![screenshot](public/src/1.png)
-![screenshot](public/src/2.png)
-![screenshot](public/src/3.png)
+![screenshot](public/src/1.PNG)
+![screenshot](public/src/2.PNG)
+![screenshot](public/src/3.PNG)
 
 
